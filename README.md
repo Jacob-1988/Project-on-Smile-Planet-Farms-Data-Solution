@@ -50,7 +50,8 @@ Dashboard Showingg Feed Cost and Performance Analysis
 
 <img width="750" height="475" alt="Image" src="https://github.com/user-attachments/assets/da0adebc-4f6d-4ef7-93b9-930cb76d2682" />
 
-
+Link to the designed goggle form:
+https://forms.gle/8yEy6ET9HAwU7fRf8
 
  
 
